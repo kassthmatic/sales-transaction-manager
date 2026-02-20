@@ -1,0 +1,14 @@
+C:\Users\kassa\Documents\CentennialW2025\COMP212\301452654(Furtado)_Test#2\PMSLibrary\bin\Debug\net8.0\PMSLibrary.deps.json
+C:\Users\kassa\Documents\CentennialW2025\COMP212\301452654(Furtado)_Test#2\PMSLibrary\bin\Debug\net8.0\PMSLibrary.runtimeconfig.json
+C:\Users\kassa\Documents\CentennialW2025\COMP212\301452654(Furtado)_Test#2\PMSLibrary\bin\Debug\net8.0\PMSLibrary.dll
+C:\Users\kassa\Documents\CentennialW2025\COMP212\301452654(Furtado)_Test#2\PMSLibrary\bin\Debug\net8.0\PMSLibrary.pdb
+C:\Users\kassa\Documents\CentennialW2025\COMP212\301452654(Furtado)_Test#2\PMSLibrary\obj\Debug\net8.0\PMSLibrary.csproj.AssemblyReference.cache
+C:\Users\kassa\Documents\CentennialW2025\COMP212\301452654(Furtado)_Test#2\PMSLibrary\obj\Debug\net8.0\PMSLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kassa\Documents\CentennialW2025\COMP212\301452654(Furtado)_Test#2\PMSLibrary\obj\Debug\net8.0\PMSLibrary.AssemblyInfoInputs.cache
+C:\Users\kassa\Documents\CentennialW2025\COMP212\301452654(Furtado)_Test#2\PMSLibrary\obj\Debug\net8.0\PMSLibrary.AssemblyInfo.cs
+C:\Users\kassa\Documents\CentennialW2025\COMP212\301452654(Furtado)_Test#2\PMSLibrary\obj\Debug\net8.0\PMSLibrary.csproj.CoreCompileInputs.cache
+C:\Users\kassa\Documents\CentennialW2025\COMP212\301452654(Furtado)_Test#2\PMSLibrary\obj\Debug\net8.0\PMSLibrary.dll
+C:\Users\kassa\Documents\CentennialW2025\COMP212\301452654(Furtado)_Test#2\PMSLibrary\obj\Debug\net8.0\refint\PMSLibrary.dll
+C:\Users\kassa\Documents\CentennialW2025\COMP212\301452654(Furtado)_Test#2\PMSLibrary\obj\Debug\net8.0\PMSLibrary.pdb
+C:\Users\kassa\Documents\CentennialW2025\COMP212\301452654(Furtado)_Test#2\PMSLibrary\obj\Debug\net8.0\PMSLibrary.genruntimeconfig.cache
+C:\Users\kassa\Documents\CentennialW2025\COMP212\301452654(Furtado)_Test#2\PMSLibrary\obj\Debug\net8.0\ref\PMSLibrary.dll
